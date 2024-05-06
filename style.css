@@ -1,0 +1,25 @@
+body {
+    background-color:  aqua;
+}
+h1{
+    color: blueviolet;
+    background-color: aqua;
+    text-align: center;
+    padding-top: 50px;
+}
+p{
+    text-align: center;
+    color: darkblue;
+    
+}
+input{
+    width: 10px;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+#boton {
+    height: 50px;
+    width: 100px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
