@@ -37,5 +37,5 @@ const calcularEstadisticas = () => {
     }
 
     let resultados = document.getElementById("resultados");
-    resultados.textContent = `La media es ${media}, la mediana es: ${mediana} y la moda seria: ${moda} ahora es un adios`
+    resultados.textContent = `La media es ${media}, la mediana es: ${mediana} y la moda seria: ${moda} adios tonotos`
 }
